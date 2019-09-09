@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "38102118731",
+    "firebase_url": "https://kafein-events.firebaseio.com",
+    "project_id": "kafein-events",
+    "storage_bucket": "kafein-events.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:38102118731:android:4083ff3a1345872a",
+        "android_client_info": {
+          "package_name": "com.example.kafeinevents"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "38102118731-0hus4qp4rcr4b2hm0qg9uf71h7r501gn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kafeinevents",
+            "certificate_hash": "42436c937f55cea56a15fe9ea3de7bfecf8f76a5"
+          }
+        },
+        {
+          "client_id": "38102118731-dh3ivp3e8lkc6nsgvmt4pg9kgu8e4vog.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgtWXAy8y5r3N87wC2Bq9OSx6tlFdp7TE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "38102118731-dh3ivp3e8lkc6nsgvmt4pg9kgu8e4vog.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

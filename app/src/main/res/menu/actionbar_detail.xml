@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <item android:id="@+id/actionbar_detailEditImage"
+        android:title="@string/Actionbar_detailEditImage"
+        app:showAsAction="never" />
+
+    <item android:id="@+id/actionbar_detailEditTime"
+        android:title="@string/Actionbar_detailEditTime"
+        app:showAsAction="never" />
+
+    <item android:id="@+id/actionbar_detailEditTitle"
+        android:title="@string/Actionbar_detailEditTitle"
+        app:showAsAction="never" />
+
+    <item android:id="@+id/actionbar_detailEditContent"
+        android:title="@string/Actionbar_detailEditContent"
+        app:showAsAction="never" />
+
+    <item android:id="@+id/actionbar_detailEditDelete"
+        android:title="@string/Actionbar_detailEditDelete"
+        app:showAsAction="never" />
+
+
+</menu>

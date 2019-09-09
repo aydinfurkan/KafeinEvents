@@ -1,0 +1,68 @@
+<resources>
+    <string name="app_name">KafeinEvents</string>
+
+    <!-- Labels -->
+    <string name="LoginLabel">Kafein Events</string>
+    <string name="ListLabel">Etkinlik Listesi</string>
+    <string name="CreateLabel">Etkinlik Oluştur</string>
+    <string name="DetailLabel">Etkinlik Detayı</string>
+
+    <!-- Login -->
+    <string name="LoginEmail">Email</string>
+    <string name="LoginPass">Password</string>
+    <string name="LoginButton">Login</string>
+
+    <!-- List -->
+    <string name="ListTitle">Etkinlik Listesi</string>
+    <string name="ListImageButton">New Button</string>
+    <integer name="ListTitleMaxLength">16</integer>
+
+    <!-- Create -->
+    <string name="CreateTitle">Etkinlik oluştur</string>
+    <string name="CreateEventTitle">Başlık</string>
+    <string name="CreateEventContent">Açıklama</string>
+    <string name="CreateEventDate">Tarih</string>
+    <string name="CreateImage">Etkinlik resmi</string>
+    <string name="CreateCreateButton">Etkinlik oluştur</string>
+
+    <!-- Detail -->
+    <string name="DetailJoinButton">Katıl</string>
+    <string name="DetailJoinedButton">Katıldın</string>
+    <string name="DetailImage">Etkinlik resmi</string>
+    <string name="DetailTitle">Başlık</string>
+    <string name="DetailContent">İçerik</string>
+    <string name="DetailAttendeesCount">10 Katılımcı</string>
+    <string name="DetailTime">29/12/1997 06:00</string>
+    <string name="DetailCreator">Furkan Aydin</string>
+    <string name="DetailWarning">*Bu etkinliğin vakti geçtiği için yeni kayıt yapılamaz.\n*Eski katılımcılar tarafından depoya erişilebilir.</string>
+    <string name="DetailStorageButton">Depo</string>
+
+    <!-- Attendeeslist -->1
+    <string name="AttendeeslistTitle">Katılımcılar</string>
+
+    <!-- List Layout -->
+    <string name="List_layoutDate"><u>29 December 1997</u></string>
+
+    <!-- Profile -->
+    <string name="ProfileUserId">ID : BENBIRIDYIM123456</string>
+    <string name="ProfileUserName">Isim : Furkan AYDIN</string>
+    <string name="ProfileParticipationCount">Katilim sayisi : 61</string>
+    <string name="ProfileCreatedCount">Olusturma sayisi : 16</string>
+    <string name="ProfileEventTitle">Etkinlik Listesi</string>
+
+    <!-- Edit Layout -->
+    <string name="Edit_layoutSubmit">KAYDET</string>
+    <string name="Edit_layoutCancel">İPTAL</string>
+
+    <!-- Actionbar Detail -->
+    <string name="Actionbar_detailEditImage">Resmi değiştir</string>
+    <string name="Actionbar_detailEditTime">Zamanı değiştir</string>
+    <string name="Actionbar_detailEditTitle">Başlığı değiştir</string>
+    <string name="Actionbar_detailEditContent">İçeriği değiştir</string>
+    <string name="Actionbar_detailEditDelete">Etkinliği sil</string>
+
+    <!-- Storage Dialog -->
+    <string name="StorageDialogTitle">DEPO</string>
+
+
+</resources>
